@@ -1,0 +1,1 @@
+function calcular(c,l){return c*l}console.log(calcular(2,2));

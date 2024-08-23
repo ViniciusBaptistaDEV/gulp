@@ -1,0 +1,36 @@
+@use 'variaveis' as *;
+
+
+
+header {
+    background-color: $corPrincipal;
+    height: 32vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size:xx-large;
+}
+
+main {
+    background-color: $corSecundaria;
+    height: 32vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size:xx-large;
+
+}
+
+footer {
+    background-color: $corTercearia;
+    height: 32vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size:xx-large;
+}
+
+
